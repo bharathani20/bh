@@ -1,0 +1,5 @@
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+if(a>b):print("a is greater than b")
+if(b>c):print("b is greater than a")
+else:print("b is equal a")
