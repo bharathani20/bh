@@ -40,3 +40,31 @@ while(count<=100):
 		elif(count==93):
 			count=64
 			print("what the hell a snake bit me now i got back to the num 64")
+			
+		OUTPUT:
+			
+	Press R to roll the diceR
+YOU GOT 3
+NEW POSITION IS 3
+Press R to roll the diceR
+YOU GOT 4
+NEW POSITION IS 7
+Press R to roll the diceR
+YOU GOT 5
+NEW POSITION IS 12
+Press R to roll the diceR
+YOU GOT 1
+NEW POSITION IS 13
+i got the ladder i'm climbing to the num 34
+Press R to roll the diceR
+YOU GOT 1
+NEW POSITION IS 35
+Press R to roll the diceR
+YOU GOT 2
+NEW POSITION IS 37
+Press R to roll the diceR
+YOU GOT 3
+NEW POSITION IS 40
+i got the ladder i'm climbing to the num 68
+Press R to roll the dice
+	
