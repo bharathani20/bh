@@ -24,7 +24,7 @@ plt.bar(r3, bars3, color='#2d7f5e', width=barWidth, edgecolor='white', label='va
 plt.xlabel('group', fontweight='bold')
 plt.xticks([r + barWidth for r in range(len(bars1))], ['A', 'B', 'C', 'D', 'E'])
  
-# Create legend & Show graphic
+# Create legend & Show graphicN
 plt.legend()
 plt.show()
 
