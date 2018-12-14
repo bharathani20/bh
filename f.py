@@ -19,11 +19,11 @@ def ocr(path):
 
     return contents
 
-str = ocr('/home/cl217/Desktop/images.jpg')
+str = ocr('/home/cl218/Desktop/d.jpeg')
 print(str)
 
 def image():
-	os.system(home/cl217/Desktop/images.jpg)
+	os.system(home/cl218/Desktop/d.jpeg)
 from gtts import gTTS 
   
 # This module is imported so that we can  
